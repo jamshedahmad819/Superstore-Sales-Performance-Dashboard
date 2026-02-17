@@ -56,19 +56,22 @@ This project answers important business questions such as:
 This made the dataset ready for analysis.
 
 
-
 ## Insights
-. The company generated total sales of 2.30M and profit of 286.40K, indicating strong performance.
 
-. The West region contributes the highest revenue (31%), while the South region contributes the least (17%), showing regional performance gaps.
+From the dashboard analysis, the following key business insights were identified:
 
-. The Technology category generates the highest profit, whereas Furniture produces lower profit.
+* The company generated **total sales of 2.30M** with an overall **profit of 286.40K**, showing healthy business performance.
 
-. Higher discounts are linked to lower profitability, suggesting discount strategies impact margins.
+* The **West region** is the highest revenue contributor, generating **about 31%** of total sales, while the **South region** contributes the least at **around 17%**, indicating regional performance differences.
 
-. Sales and profit increased yearly, with 2017 showing the highest performance, reflecting business growth.
+* The **Technology category** produces the highest profit, whereas **Furniture** generates comparatively lower profit, suggesting differences in product profitability.
 
-These insights support better business decisions.
+* Higher discounts are associated with lower profit margins, showing that aggressive discounting negatively impacts profitability.
+
+* Sales and profit steadily increased over time, with **2017 recording the highest performance**, indicating positive business growth.
+
+These insights can support better pricing strategies, regional focus, and product planning.
+
 
 ---
 
