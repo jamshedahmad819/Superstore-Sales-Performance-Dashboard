@@ -20,6 +20,7 @@ This project answers important business questions such as:
 * What are the sales trends over time?
 * Which products perform best and worst?
 
+https://raw.githubusercontent.com/jamshedahmad819/Superstore-Sales-Performance-Dashboard/7585c4e838e24d1b7a7cc829c0f73c6b242f7966/Screenshot%202026-02-17%20144603.png
 ---
 
 ## Project Goal
